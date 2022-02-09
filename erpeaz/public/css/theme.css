@@ -1,0 +1,13 @@
+.layout-side-section
+{
+background-color:#1a75bb !important;
+}
+.sticky-top,.navbar
+{
+background-color:#f6921e !important;
+background:#f6921e !important;
+}
+.widget:hover{
+    background-color:#f6921e
+
+}
